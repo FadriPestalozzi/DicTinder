@@ -1,15 +1,12 @@
 # DicTinder
 
-*Igniting your most dangerous love affair*
-
-Tinder for dictators - Explosive satire 💥
+DicTinder is Tinder for dictators - *an explosive affair 💥*
 
 
 # 🎭 Concept
 
 
-DicTinder is a dark comedy dating app satire that plays on the double entendre of "dic" (dictator and dick). The concept revolves around the humorous observation that dictators tend to have small... egos... and compensate by being even greater jerks in their terrible behavior towards fellow humans. 
-
+DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. 
 
 **Visit us at:** dictinder.club
 
@@ -18,15 +15,77 @@ DicTinder is a dark comedy dating app satire that plays on the double entendre o
 
 
 ## 1. Personality Assessment
-Users begin with a satirical questionnaire designed to determine their "dictator type":
-- *"What's your favorite way of extracting information from a political prisoner?"*
-- *"How do you prefer to suppress freedom of speech?"*
-- *"Your ideal method of dealing with political opposition?"*
+Users begin with a questionnaire to determine their "dictator type":
+
+### Choose your top professional qualification
+1. Creative portfolio to extract information from political prisoners
+2. Bombing the shit out of rebel cities
+3. Professional background in mass surveillance and citizen monitoring
+
+### How do you prefer to suppress freedom of speech?
+- Ban all independent media outlets and replace them with state-approved propaganda channels
+- Create a network of informants to report on anyone expressing dissenting opinions
+- Use social media algorithms to suppress anti-government content and amplify pro-regime messages
+
+### What's your favorite method to deal with annoying demonstrators?
+- Deploy water cannons filled with tear gas for maximum crowd dispersal efficiency
+- Stage counter-protests with paid supporters to drown out opposition voices
+- Implement a "protest permit" system that mysteriously never approves anti-government demonstrations
+
+### How large does your golden statue need to be to consider a city as loyal?
+- Since I am the most valuable human being alive, the people lucky enough to be born as my subjects need to build me at least a 7 meter tall statue to be worthy of my love. 
+- Gold is so passé. I don't tolerate anything less than Platinum!
+- There is no such thing as a loyal city. I enjoy monitoring everyone. 
+
+### What's your preferred method for rewriting history textbooks?
+- Hire teams of "creative historians" to make my regime look like the savior of civilization
+- Simply erase all references to previous leaders and claim I founded the nation
+- Replace all historical events with glorious tales of my ancestors' imaginary achievements
+
+### What's your go-to strategy for eliminating political rivals?
+- Frame them for corruption charges using fabricated evidence and complicit judges
+- Arrange mysterious "accidents" involving suspicious amounts of radioactive tea
+- Send them on permanent "diplomatic missions" to remote Antarctic research stations
+
+### How do you like to control your nation's economy?
+- Nationalize all major industries and place them under the control of my loyal cronies
+- Create a complex system of licenses and permits that only my supporters can obtain
+- Establish a cryptocurrency backed by portraits of myself and mandatory for all transactions
+
+### What's your ideal propaganda slogan length?
+- Short and punchy: "Obey or perish!" - gets the message across efficiently
+- Medium length for maximum impact: "Your glorious leader knows what's best for your pathetic existence"
+- Epic manifesto style: Write a 400-page book that citizens must memorize and recite daily
+
+### What's your favorite way to monitor citizens' private conversations?
+- Install listening devices in every household appliance, from toasters to toilet seats
+- Train an army of lip-readers to spy on people through their windows
+- Create a mandatory social media app that records everything and rewards snitching with bonus points
+
+### How do you prefer to handle succession planning?
+- Establish a dynasty by training my children to be even more ruthless than me
+- Clone myself multiple times to ensure eternal rule by genetically identical successors
+- Create a complex riddle that only someone worthy of absolute power could solve
+
+### What's your go-to excuse for invading neighboring countries?
+- "They looked at me funny during the last diplomatic summit"
+- "Intelligence reports suggest they have weapons of mass distraction"
+- "My astrologer advised that territorial expansion aligns with my chakras"
+
+### What's your preferred method for controlling the media narrative?
+- Replace all journalists with AI chatbots programmed to only say nice things about me
+- Create a reality TV show where reporters compete for the privilege of spreading my propaganda
+- Establish a "Ministry of Truth" where facts are democratically voted on by my supporters
+
+### How paranoid should a good dictator be on a scale of 1-10?
+- Level 7: Trust no one, but maintain plausible deniability for your surveillance network
+- Level 10: Everyone is a potential assassin, including my own reflection in the mirror
+- Level 12: Paranoia is for amateurs - true leaders create their own reality where threats don't exist
 
 
 ## 2. Dictator Matching
-After completing the questionnaire, users are matched with their most compatible dictator profile:
-- **Nationalist tendencies** → Marine (Le Pen) - *"Believe in La Grande Nation?"*
+After completing the questionnaire, users are matched with their most compatible dic-profile:
+- **Nationalist tendencies** → Mary (Le Pen) - *"Believe in La Grande Nation?"*
 - **Authoritarian capitalism** → Alice (Weidel)
 - **Kleptocratic ambitions** → Vlady (Putin)
 - **Surveillance state fantasies** → Xi (Jinping)
