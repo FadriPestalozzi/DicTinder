@@ -8,7 +8,7 @@ DicTinder is Tinder for dictators - *an explosive affair 💥*
 
 DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. 
 
-**Visit us at:** dictinder.club
+**Visit us at:** https://dictinder.me/
 
 
 # 📱 User Experience Flow
@@ -86,10 +86,17 @@ Users begin with a questionnaire to determine their "dictator type":
 ## 2. Dictator Matching
 After completing the questionnaire, users are matched with their most compatible dic-profile:
 - **Nationalist tendencies** → Mary (Le Pen) - *"Believe in La Grande Nation?"*
-- **Authoritarian capitalism** → Alice (Weidel)
-- **Kleptocratic ambitions** → Vlady (Putin)
-- **Surveillance state fantasies** → Xi (Jinping)
-- **Populist authoritarianism** → Vicy (Orbán)
+- **Authoritarian capitalism** → Alice (Weidel) - *"Making money great again, one right-wing policy at a time!"*
+- **Kleptocratic ambitions** → Vlady (Putin) - *"What's yours is mine, what's mine is also mine"*
+- **Surveillance state fantasies** → Xi (Jinping) - *"Big Brother is watching... and he's very impressed with himself"*
+- **Populist authoritarianism** → Vicy (Orbán) - *"Democracy dies in broad daylight, and I have the best spotlight!"*
+- **Nuclear obsession** → Kimmy (Kim Jong-un) - *"Size matters... especially with missiles!"*
+- **Chemical warfare enthusiast** → Bashy (Bashar al-Assad) - *"Gassing for love in all the wrong places"*
+- **Election manipulation expert** → Sasha (Aleksandr Lukashenko) - *"Democracy is overrated anyway"*
+- **Media control specialist** → Tayyip (Recep Tayyip Erdoğan) - *"Free press? More like expensive press!"*
+- **Environmental destruction advocate** → Jairy (Jair Bolsonaro) - *"Trees are so last century"*
+- **Extrajudicial execution fan** → Roddy (Rodrigo Duterte) - *"Justice served express delivery"*
+- **Economic collapse artist** → Nicky (Nicolás Maduro) - *"Inflation is just spicy economics!"*
 
 
 ## 3. Profile Browsing
