@@ -107,19 +107,15 @@ Once matched with their "true self," users can explore other dictator profiles.
 
 
 ## Swipe Mechanics
-- **Fascist Dictators**: Swipe RIGHT only (brown arrow) - a nod to fascism being on the political far-right
-- **Communist Dictators**: Swipe LEFT only (red arrow) - representing the political left
+- **Fascist Dictators**: Swipe RIGHT only (brown arrow)
+- **Communist Dictators**: Swipe LEFT only (red arrow)
 - **No traditional "left swipes"** - because in this twisted world, rejection isn't an option
 
 
 ## Profile Content
 Each dictator profile includes:
 - **Satirical illustrations** (by our artist Chrysa)
-- **Cutified first names only**:
-  - Vlady (Vladimir Putin)
-  - Dolf (Adolf Hitler)
-  - Benito (Mussolini)
-  - Marine (Le Pen)
+- **Cutified first name only**:
 - **Stats**:
   - People tortured
   - People killed
