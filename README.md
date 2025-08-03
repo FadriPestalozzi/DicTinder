@@ -1,6 +1,9 @@
 # DicTinder
 
 DicTinder is Tinder for dictators - *an explosive affair 💥*
+- *Be the change you don't want to see.*
+- *Swipe right for world domination.*
+- *Love at first regime.*
 
 
 # 🎭 Concept
@@ -14,93 +17,93 @@ DicTinder is a satirical dating app, playing with dictators and other dicks. The
 
 
 ## 1. Personality Assessment
-Users begin with a questionnaire to determine their "dictator type":
+App deploys comprehensive tyranny quiz to determine user's authoritarian archetype.
 
-### Choose your top professional qualification
-1. Creative portfolio to extract information from political prisoners
-2. Bombing the shit out of rebel cities
-3. Professional background in mass surveillance and citizen monitoring
+### Professional Qualifications
+- Information extraction specialist
+- Carpet bombing coordinator  
+- Mass surveillance architect
 
-### How do you prefer to suppress freedom of speech?
-- Ban all independent media outlets and replace them with state-approved propaganda channels
-- Create a network of informants to report on anyone expressing dissenting opinions
-- Use social media algorithms to suppress anti-government content and amplify pro-regime messages
+### Freedom Suppression Methodology
+- State media monopolization
+- Informant network deployment
+- Algorithmic narrative control
 
-### What's your favorite method to deal with annoying demonstrators?
-- Deploy water cannons filled with tear gas for maximum crowd dispersal efficiency
-- Stage counter-protests with paid supporters to drown out opposition voices
-- Implement a "protest permit" system that mysteriously never approves anti-government demonstrations
+### Crowd Control Preferences
+- Chemical dispersal tactics
+- Counter-demonstration staging
+- Permit system manipulation
 
-### How large does your golden statue need to be to consider a city as loyal?
-- Since I am the most valuable human being alive, the people lucky enough to be born as my subjects need to build me at least a 7 meter tall statue to be worthy of my love. 
-- Gold is so passé. I don't tolerate anything less than Platinum!
-- There is no such thing as a loyal city. I enjoy monitoring everyone. 
+### Loyalty Measurement Standards
+- Monument scale requirements (7-meter minimum)
+- Precious metal specifications (platinum preferred)
+- Universal surveillance acceptance
 
-### What's your preferred method for rewriting history textbooks?
-- Hire teams of "creative historians" to make my regime look like the savior of civilization
-- Simply erase all references to previous leaders and claim I founded the nation
-- Replace all historical events with glorious tales of my ancestors' imaginary achievements
+### Historical Revisionism Approach
+- "Creative historian" recruitment
+- Leadership erasure protocols
+- Ancestral mythology creation
 
-### What's your go-to strategy for eliminating political rivals?
-- Frame them for corruption charges using fabricated evidence and complicit judges
-- Arrange mysterious "accidents" involving suspicious amounts of radioactive tea
-- Send them on permanent "diplomatic missions" to remote Antarctic research stations
+### Rival Elimination Strategy
+- Judicial corruption frameworks
+- Radioactive accident arrangement
+- Antarctic exile programs
 
-### How do you like to control your nation's economy?
-- Nationalize all major industries and place them under the control of my loyal cronies
-- Create a complex system of licenses and permits that only my supporters can obtain
-- Establish a cryptocurrency backed by portraits of myself and mandatory for all transactions
+### Economic Dominance Model
+- Crony nationalization schemes
+- Licensing monopoly systems
+- Portrait-backed cryptocurrency
 
-### What's your ideal propaganda slogan length?
-- Short and punchy: "Obey or perish!" - gets the message across efficiently
-- Medium length for maximum impact: "Your glorious leader knows what's best for your pathetic existence"
-- Epic manifesto style: Write a 400-page book that citizens must memorize and recite daily
+### Propaganda Optimization
+- "Obey or perish" efficiency
+- Medium-form intimidation messaging
+- 400-page manifesto requirements
 
-### What's your favorite way to monitor citizens' private conversations?
-- Install listening devices in every household appliance, from toasters to toilet seats
-- Train an army of lip-readers to spy on people through their windows
-- Create a mandatory social media app that records everything and rewards snitching with bonus points
+### Surveillance Infrastructure
+- Household appliance infiltration
+- Lip-reader deployment programs
+- Mandatory snitch-reward platforms
 
-### How do you prefer to handle succession planning?
-- Establish a dynasty by training my children to be even more ruthless than me
-- Clone myself multiple times to ensure eternal rule by genetically identical successors
-- Create a complex riddle that only someone worthy of absolute power could solve
+### Succession Architecture
+- Dynasty ruthlessness training
+- Genetic replication protocols
+- Worthiness riddle systems
 
-### What's your go-to excuse for invading neighboring countries?
-- "They looked at me funny during the last diplomatic summit"
-- "Intelligence reports suggest they have weapons of mass distraction"
-- "My astrologer advised that territorial expansion aligns with my chakras"
+### Territorial Expansion Justification
+- Diplomatic summit offense protocols
+- "Mass distraction" intelligence reports
+- Astrological territorial alignment
 
-### What's your preferred method for controlling the media narrative?
-- Replace all journalists with AI chatbots programmed to only say nice things about me
-- Create a reality TV show where reporters compete for the privilege of spreading my propaganda
-- Establish a "Ministry of Truth" where facts are democratically voted on by my supporters
+### Media Narrative Management
+- AI chatbot journalist replacement
+- Propaganda competition programming
+- Democratic fact-voting ministries
 
-### How paranoid should a good dictator be on a scale of 1-10?
-- Level 7: Trust no one, but maintain plausible deniability for your surveillance network
-- Level 10: Everyone is a potential assassin, including my own reflection in the mirror
-- Level 12: Paranoia is for amateurs - true leaders create their own reality where threats don't exist
+### Paranoia Calibration (Scale 1-12)
+- Level 7: Deniable surveillance networks
+- Level 10: Universal assassination suspicion
+- Level 12: Reality manipulation mastery
 
-### What's your stance on social media control?
-- Deploy the boot on Facebook - literally stamping on human faces through algorithmic oppression, forever (George Orwell would be proud)
-- Create a "vaccine against the god gene" - eliminate any sense of higher purpose or moral resistance in the population
-- Turn every platform into a surveillance state where citizens police themselves
+### Digital Population Control
+- Orwellian algorithmic boot deployment
+- "God gene" resistance elimination
+- Self-policing surveillance state creation
 
-### Which dictator medal collection goal speaks to you most?
-- Classic tyrant symbols: Iron crosses, blood-red ribbons, and gold-plated oppression awards
-- Bond villain aesthetics: Medal ceremonies in underground volcano bases with dramatic lighting
-- Innovation medals: "Most Creative Use of Fear," "Excellence in Citizen Suppression," "Lifetime Achievement in Paranoia"
+### Achievement Recognition Systems
+- Classic oppression award collections
+- Volcano base ceremony aesthetics
+- Innovation in fear excellence
 
-### What's your ultimate philosophy on leadership?
-- Don't be a dick... be a dicTator! (It's all about the branding and world domination goals)
-- True dics need to team up for maximum global chaos and control efficiency
-- Remember: once you fall in love, you're neutralized - emotional attachment is the enemy of absolute power
+### Leadership Philosophy Framework
+- Dick-to-dictator brand evolution
+- Global chaos collaboration efficiency
+- Emotional neutralization protocols
 
-### Your ideal dictator stats to display on your profile?
-- People "disappeared": (Higher numbers = more attractive to fellow authoritarians)
-- Underground volcano bases built: (Bond villain credibility score)
-- World domination percentage achieved: (Progress toward ultimate goal)
-- Fellow dictators successfully manipulated: (Networking effectiveness rating)
+### Profile Statistics Display
+- Disappearance count metrics
+- Volcano base construction progress
+- World domination percentage tracking
+- Fellow dictator manipulation ratings
 
 
 ## 2. Dictator Matching
@@ -147,7 +150,7 @@ Each dictator profile includes:
   - Nuclear tests conducted
 - **Hobbies**:
   - World domination
-  - Nuclear test blasts
+  - Enriching uranium
   - Squishing demonstrators with remote-controlled drones
   - Tank-based crowd control (like a twisted video game)
 
@@ -158,13 +161,13 @@ Each dictator profile includes:
 - **Chat feature**: Typing animations with dictator-style conversation snippets
 
 
-# 🎨 Satirical Elements
-
+# 🔥 Spicy Elements
 
 - **Pronoun joke**: *"Your pronouns? → Just joking!"*
 - **Compensation theory**: *"The smaller the... the bigger the dictator"*
 - **Dating profile parodies**: *"Tired of lonely nuclear test visits? Looking for a pole (to invade)."*
 - **Hashtags**: #atomic #massdestruction #torture #worlddomination
+- **Ironical inspiration**: *"Be the change you don't want to see"* (Gandhi's worst nightmare)
 
 
 # 🎵 Team & Credits
@@ -177,7 +180,6 @@ Each dictator profile includes:
 
 
 # 🚀 Marketing
-
 
 - **Instagram campaign**: Building buzz through social media ads
 - **Domain**: dictinder.club
