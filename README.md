@@ -12,98 +12,127 @@ DicTinder is Tinder for dictators - *an explosive affair 💥*
 DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. Check out the [MVP here](https://delightful-duckanoo-cd232b.netlify.app/). 
 
 
+# 🎨 Logos
+
+Our visual identity comes in multiple variations to suit different backgrounds and contexts:
+
+## Horizontal Logos
+<div align="center">
+
+![DicTinder Logo - Horizontal](pics/logo/Dictinder%20logo%20horizontal.svg)
+*Standard horizontal logo*
+
+![DicTinder Logo - Horizontal White](pics/logo/Dictinder%20logo%20horizontal_white.svg)  
+*Horizontal logo (white version for dark backgrounds)*
+
+</div>
+
+## Stacked Logos
+<div align="center">
+
+![DicTinder Logo - Horizontal Stacked](pics/logo/Dictinder%20logo%20horizontal_stacked.svg)
+*Stacked horizontal logo*
+
+![DicTinder Logo - Horizontal Stacked White](pics/logo/Dictinder%20logo%20horizontal_stacked_white.svg)
+*Stacked horizontal logo (white version for dark backgrounds)*
+
+</div>
+
+
 
 # 📱 User Experience Flow
 
 
 ## 1. Personality Assessment
-App deploys comprehensive tyranny quiz to determine user's authoritarian archetype.
+App deploys comprehensive tyranny quiz to determine user's psychopathic archetype using the Dark Triad framework.
 
-### Professional Qualifications
-- Information extraction specialist
-- Carpet bombing coordinator  
-- Mass surveillance architect
+### Narcissistic Grandiosity Assessment
+*Measuring superiority complex and need for admiration*
 
-### Freedom Suppression Methodology
-- State media monopolization
-- Informant network deployment
-- Algorithmic narrative control
-
-### Crowd Control Preferences
-- Chemical dispersal tactics
-- Counter-demonstration staging
-- Permit system manipulation
-
-### Loyalty Measurement Standards
+**Ego Inflation Metrics:**
 - Monument scale requirements (7-meter minimum)
 - Precious metal specifications (platinum preferred)
+- Volcano base ceremony aesthetics
+- Portrait-backed cryptocurrency preferences
+
+**Superiority Complex Evaluation:**
+- Dick-to-dictator brand evolution
+- Achievement recognition systems
+- Innovation in fear excellence ratings
+- Fellow dictator manipulation superiority
+
+**Admiration Craving Indicators:**
 - Universal surveillance acceptance
+- Classic oppression award collections
+- Dynasty ruthlessness training protocols
+- Global chaos collaboration efficiency
 
-### Historical Revisionism Approach
-- "Creative historian" recruitment
-- Leadership erasure protocols
-- Ancestral mythology creation
+### Machiavellian Manipulation Proficiency
+*Strategic deception and exploitation capabilities*
 
-### Rival Elimination Strategy
-- Judicial corruption frameworks
-- Radioactive accident arrangement
-- Antarctic exile programs
-
-### Economic Dominance Model
-- Crony nationalization schemes
-- Licensing monopoly systems
-- Portrait-backed cryptocurrency
-
-### Propaganda Optimization
-- "Obey or perish" efficiency
-- Medium-form intimidation messaging
-- 400-page manifesto requirements
-
-### Surveillance Infrastructure
-- Household appliance infiltration
-- Lip-reader deployment programs
-- Mandatory snitch-reward platforms
-
-### Succession Architecture
-- Dynasty ruthlessness training
-- Genetic replication protocols
-- Worthiness riddle systems
-
-### Territorial Expansion Justification
-- Diplomatic summit offense protocols
-- "Mass distraction" intelligence reports
-- Astrological territorial alignment
-
-### Media Narrative Management
-- AI chatbot journalist replacement
-- Propaganda competition programming
+**Information Control Mastery:**
+- State media monopolization techniques
+- "Creative historian" recruitment programs
+- AI chatbot journalist replacement systems
 - Democratic fact-voting ministries
 
-### Paranoia Calibration (Scale 1-12)
+**Strategic Manipulation Tactics:**
+- Informant network deployment efficiency
+- Judicial corruption frameworks
+- Licensing monopoly optimization
+- Permit system manipulation expertise
+
+**Long-term Planning Assessment:**
+- Algorithmic narrative control sophistication
+- Leadership erasure protocols
+- Crony nationalization schemes
+- Succession architecture planning
+
+**Deception & Misdirection Skills:**
+- "Mass distraction" intelligence reports
+- Astrological territorial alignment justification
+- Diplomatic summit offense protocols
+- Propaganda competition programming
+
+### Psychopathic Callousness Index
+*Empathy deficits and antisocial behavioral patterns*
+
+**Empathy Absence Measurement:**
+- Information extraction specialist credentials
+- Carpet bombing coordination experience
+- Chemical dispersal tactical preferences
+- Radioactive accident arrangement skills
+
+**Impulse Control Deficits:**
+- Counter-demonstration staging frequency
+- Antarctic exile program enthusiasm
+- Household appliance infiltration methods
+- Mandatory snitch-reward platform deployment
+
+**Antisocial Behavior Patterns:**
+- Mass surveillance architecture design
+- Orwellian algorithmic boot deployment
+- "God gene" resistance elimination protocols
+- Self-policing surveillance state creation
+
+**Paranoia & Threat Assessment:**
 - Level 7: Deniable surveillance networks
 - Level 10: Universal assassination suspicion
 - Level 12: Reality manipulation mastery
+- Emotional neutralization protocol advancement
 
-### Digital Population Control
-- Orwellian algorithmic boot deployment
-- "God gene" resistance elimination
-- Self-policing surveillance state creation
+### Comprehensive Tyranny Metrics
+**Propaganda Optimization:**
+- "Obey or perish" efficiency ratings
+- Medium-form intimidation messaging
+- 400-page manifesto requirements
+- Ancestral mythology creation skills
 
-### Achievement Recognition Systems
-- Classic oppression award collections
-- Volcano base ceremony aesthetics
-- Innovation in fear excellence
-
-### Leadership Philosophy Framework
-- Dick-to-dictator brand evolution
-- Global chaos collaboration efficiency
-- Emotional neutralization protocols
-
-### Profile Statistics Display
+**Profile Statistics Display:**
 - Disappearance count metrics
 - Volcano base construction progress
 - World domination percentage tracking
-- Fellow dictator manipulation ratings
+- Lip-reader deployment program success rates
 
 
 ## 2. Dictator Matching
@@ -161,9 +190,21 @@ Each dictator profile includes:
 - **Chat feature**: Typing animations with dictator-style conversation snippets
 
 
+# 🎯 User Experience Elements
+
+## Interactive Controls
+- **Ideological Spectrum Slider**: User can choose between different authoritarian archetypes
+  - Margaret Thatcher
+  - Pol Pot
+**Peoples Revolution**
+- Che Guevara
+- Queen Victoria
+
+
 # 🔥 Spicy Elements
 
-- **Pronoun joke**: *"Your pronouns? → Just joking!"*
+- **Genocidal Tendencies**
+- **Your pronouns?** "Just joking!" 
 - **Compensation theory**: *"The smaller the... the bigger the dictator"*
 - **Dating profile parodies**: *"Tired of lonely nuclear test visits? Looking for a pole (to invade)."*
 - **Hashtags**: #atomic #massdestruction #torture #worlddomination
