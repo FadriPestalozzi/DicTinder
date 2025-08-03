@@ -82,6 +82,27 @@ Users begin with a questionnaire to determine their "dictator type":
 - Level 10: Everyone is a potential assassin, including my own reflection in the mirror
 - Level 12: Paranoia is for amateurs - true leaders create their own reality where threats don't exist
 
+### What's your stance on social media control?
+- Deploy the boot on Facebook - literally stamping on human faces through algorithmic oppression, forever (George Orwell would be proud)
+- Create a "vaccine against the god gene" - eliminate any sense of higher purpose or moral resistance in the population
+- Turn every platform into a surveillance state where citizens police themselves
+
+### Which dictator medal collection goal speaks to you most?
+- Classic tyrant symbols: Iron crosses, blood-red ribbons, and gold-plated oppression awards
+- Bond villain aesthetics: Medal ceremonies in underground volcano bases with dramatic lighting
+- Innovation medals: "Most Creative Use of Fear," "Excellence in Citizen Suppression," "Lifetime Achievement in Paranoia"
+
+### What's your ultimate philosophy on leadership?
+- Don't be a dick... be a dicTator! (It's all about the branding and world domination goals)
+- True dics need to team up for maximum global chaos and control efficiency
+- Remember: once you fall in love, you're neutralized - emotional attachment is the enemy of absolute power
+
+### Your ideal dictator stats to display on your profile?
+- People "disappeared": (Higher numbers = more attractive to fellow authoritarians)
+- Underground volcano bases built: (Bond villain credibility score)
+- World domination percentage achieved: (Progress toward ultimate goal)
+- Fellow dictators successfully manipulated: (Networking effectiveness rating)
+
 
 ## 2. Dictator Matching
 After completing the questionnaire, users are matched with their most compatible dic-profile:
@@ -97,6 +118,10 @@ After completing the questionnaire, users are matched with their most compatible
 - **Environmental destruction advocate** → Jairy (Jair Bolsonaro) - *"Trees are so last century"*
 - **Extrajudicial execution fan** → Roddy (Rodrigo Duterte) - *"Justice served express delivery"*
 - **Economic collapse artist** → Nicky (Nicolás Maduro) - *"Inflation is just spicy economics!"*
+- **Shoe collection obsessive** → Meldy (Imelda Marcos) - *"Walking on skulls has never been so stylish!"*
+- **Fascist efficiency fanatic** → Benny (Benito Mussolini) - *"Making trains run on time, making people disappear on schedule!"*
+
+
 
 
 ## 3. Profile Browsing
