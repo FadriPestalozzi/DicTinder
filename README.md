@@ -6,9 +6,8 @@ DicTinder is Tinder for dictators - *an explosive affair 💥*
 # 🎭 Concept
 
 
-DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. 
+DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. Check out the [MVP here](https://delightful-duckanoo-cd232b.netlify.app/). 
 
-**Visit us at:** https://dictinder.me/
 
 
 # 📱 User Experience Flow
