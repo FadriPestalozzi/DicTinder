@@ -11,9 +11,9 @@ DicTinder is Tinder for dictators - *an explosive affair 💥*
 
 DicTinder is a satirical dating app, playing with dictators and other dicks. The concept revolves around the fact that dictators tend to have small... egos... and compensate by being even greater dicks towards fellow humans. Check out the [MVP here](https://delightful-duckanoo-cd232b.netlify.app/). 
 
-## typography 
+## Typography 
 
-Any background should be same one of flame colors:
+Any background should be same one of flame colors. Transition:
 - from HeX: ff3775 
 - to HeX: ff5c61
 
@@ -36,10 +36,10 @@ Our visual identity comes in multiple variations to suit different backgrounds a
 <div align="center">
 
 ![DicTinder Logo - Horizontal Stacked](pics/logo/Dictinder%20logo%20horizontal_stacked.svg)
-*Stacked horizontal logo*
+*Stacked logo*
 
 ![DicTinder Logo - Horizontal Stacked White](pics/logo/Dictinder%20logo%20horizontal_stacked_white.svg)
-*Stacked horizontal logo (white version for dark backgrounds)*
+*Stacked logo (white version for dark backgrounds)*
 
 </div>
 
@@ -390,7 +390,7 @@ The DicTinder algorithm combines your Dark Triad assessment results with our cur
 - **Collaborative Genocide Projects**: Efficiency through teamwork
 - **Shared Swiss Bank Accounts**: Financial intimacy planning
 
-*Remember: In DicTinder, there are no incompatible matches—only different levels of mutual destruction potential!* 💣💕
+*Remember: In DicTinder, there are no incompatible matches — only different levels of mutual destruction potential!* 💣💕
 
 
 
@@ -429,15 +429,30 @@ Each dictator profile includes:
 - **Chat feature**: Typing animations with dictator-style conversation snippets
 
 
-# 🎯 User Experience Elements
+# 🎯 User Choices
 
 ## Interactive Controls
-- **Ideological Spectrum Slider**: User can choose between different authoritarian archetypes
+- **Ideological Spectrum Slider**: User chooses between different authoritarian archetypes
   - Margaret Thatcher
   - Pol Pot
 **Peoples Revolution**
 - Che Guevara
 - Queen Victoria
+
+## Justification for your absolute power
+
+*Because every dictator deserves a good backstory!*
+
+- **Divine right** - "God personally texted me the job offer"
+- **Kleptocracy** - "I'm not stealing, I'm redistributing wealth... to myself"
+- **Genetic supremacy** - "My DNA test came back 99% pure leadership"
+- **Conquest** - "I saw, I came, I conquered... wait, that's backwards"
+- **Smallest dick** - "Compensating with the biggest military budget"
+- **Elected by selected committee** - "Democracy works when you choose the voters"
+- **Economic necessity** - "Someone has to manage all this money I found"
+- **Evolutionary peak** - "I represent humanity's final boss level"
+- **Prophetic fulfillment** - "The fortune cookie was very specific"
+- **Crisis management** - "Chaos demands a strong hand... with nuclear weapons"
 
 
 # Dictatorial Titles
@@ -532,27 +547,30 @@ Each dictator profile includes:
 
 # 🔥 Spicy Elements
 
-captcha to prove you're a real dictator
+## Captcha to prove you're a real dictator
 - fencing or defensing
 - statues over people
 - prove you have a heart of steel and lack of love
 
 
-justification for your absolute power
-- divine right
-- kleptocracy
-- genetic supremacy
-- conquest
-- smallest dick
-- elected by selected committee (some are more equal than others)
 
 
-- **Genocidal Tendencies**
-- **Your pronouns?** "Just joking!" 
-- **Compensation theory**: *"The smaller the... the bigger the dictator"*
-- **Dating profile parodies**: *"Tired of lonely nuclear test visits? Looking for a pole (to invade)."*
-- **Hashtags**: #atomic #massdestruction #torture #worlddomination
-- **Ironical inspiration**: *"Be the change you don't want to see"* (Gandhi's worst nightmare)
+
+
+
+## Taglines
+- Be the true you (encouraging people's worst impulses)
+- The smaller the d... the bigger the dictator
+- Your pronouns? Just joking!
+- Tired of lonely nuclear test visits? Get a pole to invade! 
+- Be the change you don't want to see (Gandhi's worst nightmare)
+
+
+## Hashtags
+- #atomic 
+- #massdestruction 
+- #torture 
+- #worlddomination
 
 
 # 🎵 Team & Credits
@@ -563,12 +581,6 @@ justification for your absolute power
 - **Programming**: Lisa (JavaScript development)
 - **Documenting**: Fadri (satirical content)
 
-
-# 🚀 Marketing
-
-- **Instagram campaign**: Building buzz through social media ads
-- **Domain**: dictinder.club
-- **Tagline**: *"BE THE TRUE YOU"* (ironically encouraging people's worst impulses)
 
 
 # ⚠️ Disclaimer
